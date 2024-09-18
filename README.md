@@ -1,7 +1,8 @@
 # Hello World, I'm Kuang-Hsuan Lee! You can also call me Jack 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kuang-hsuan-lee/)
-[![Gmail Badge](https://img.shields.io/badge/-leekuang@marshall.usc.edu-red?style=flat&logo=Gmail&logoColor=white)](mailto:leekuang@marshall.usc.edu)
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:leekuang@marshall.usc.edu)
+[![website][website-shield]][website-url]
 
 ## About Me 🚀
 
@@ -30,3 +31,9 @@
 - Work in Progress!
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jackleekuang.jackleekuang)
+
+
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/kuang-hsuan-lee/
+[website-shield]: https://img.shields.io/badge/Personl_Website-af9164?style=for-the-badge&logo=biolink&logoColor=white
+[website-url]: https://jackleekuang.github.io/
