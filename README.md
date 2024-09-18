@@ -29,4 +29,4 @@
 - Check my [Portfolio](https://jackleekuang.github.io/)
 - Work in Progress!
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=jackleekuang.visitor-badge)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jackleekuang.jackleekuang)
