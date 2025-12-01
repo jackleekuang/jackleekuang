@@ -12,7 +12,7 @@
 
 ## My Experiences 👨‍💼
 
-- **Data Analyst Intern (Tesla** - (Jan'25-May'25)
+- **Data Analyst Intern (Tesla)** - (Jan'25-May'25)
 - **Data Science Intern (J. Galt Finance Suite, LLC)** - (Jun'24-Jul'24)
 - **Sales Operations Analyst (Uber)** - (Jun'21-Jun'23)
 - **Project Assistant (The American Chamber of Commerce in Taiwan )** - (Jan'20-Aug'20)
